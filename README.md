@@ -19,7 +19,7 @@ Example config File -
 ```
 {
   "TOKEN": "YOUR_BOT_TOKEN",
-  "PREFIX": "YOUR_BOTS _DEFAULT_PREFIX",
+  "PREFIX": "YOUR_DEFAULT_BOT_PREFIX",
   "SOUNDCLOUD_CLIENT_ID": "",
   "approveemoji": "✅",
   "denyemoji": "🚫",
