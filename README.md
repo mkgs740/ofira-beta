@@ -8,7 +8,7 @@
 
 > This bot is used by more than 1.6M+ Discord users and more than 330+ servers.
 
-Alix Beta Is A Open Sourced Discord Bot Can Use In Many Was Like To Make Server Full Moderation Filled, And Fun. Coded With JavaScript [Discord.js](https://discord.js.org) And [Quick.db](https://quickdb.js.org/) Made By [SAURABH-777](https://github.com/SAURABH-777/)
+Ofira Beta Is A Open Sourced Discord Bot Can Use In Many Was Like To Make Server Full Moderation Filled, And Fun. Coded With JavaScript [Discord.js](https://discord.js.org) And [Quick.db](https://quickdb.js.org/) Made By [SAURABH-777](https://github.com/SAURABH-777/)
 <br> Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Bot Setup
