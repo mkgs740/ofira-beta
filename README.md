@@ -3,7 +3,7 @@
 # Ofira Beta
 
 [![Run on Repl.it](https://repl.it/badge/github/SAURABH-777/ofira-beta)](https://repl.it/github/SAURABH-777/ofira-beta)
-[![](https://top.gg/api/widget/status/693846748824862770.svg)](https://top.gg/bot/818570692847992902/vote)
+[![](https://top.gg/api/widget/status/818570692847992902.svg)](https://top.gg/bot/818570692847992902/vote)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
 > This bot is used by more than 100k+ Discord users and more than 120+ servers.
