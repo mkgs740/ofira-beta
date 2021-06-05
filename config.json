@@ -1,0 +1,8 @@
+{
+  "TOKEN": "YOUR_BOT_TOKEN",
+  "PREFIX": "YOUR_BOTS _DEFAULT_PREFIX",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "approveemoji": "✅",
+  "denyemoji": "🚫",
+  "erroremoji": "️❗"
+}
