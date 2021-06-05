@@ -15,7 +15,7 @@ Alix Beta Is A Open Sourced Discord Bot Can Use In Many Was Like To Make Server 
 
 ## Bot Setup
 
-Check Bot Config File [Here](https://github.com/SAURABH-777/Ofira-Beta/blob/glitch/config.json)
+Check Bot Config File [Here](https://github.com/SAURABH-777/ofira-beta/blob/main/config.json)
 
 Example config File - 
 ```
