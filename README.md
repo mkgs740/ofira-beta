@@ -1,6 +1,6 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Alix-Beta" src="https://is.gd/nb1fp4">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Ofira-Beta" src="https://images-ext-1.discordapp.net/external/UXYoaph9GQBPx4pCo3zbjQ390o5UIZLA0sWSfSpJt0I/%3Fsize%3D256/https/cdn.discordapp.com/avatars/818570692847992902/cfc4fad10cd49c434e838b98fd85e9c6.png">  
 
-# Alix Beta
+# Ofira Beta
 
 [![Run on Repl.it](https://repl.it/badge/github/ayaan1005/Alix-Beta)](https://repl.it/github/ayaan1005/Alix-Beta)
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://bot.alix.gq)
