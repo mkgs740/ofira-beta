@@ -1,50 +1,31 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Ofira-Beta" src="https://images-ext-1.discordapp.net/external/UXYoaph9GQBPx4pCo3zbjQ390o5UIZLA0sWSfSpJt0I/%3Fsize%3D256/https/cdn.discordapp.com/avatars/818570692847992902/cfc4fad10cd49c434e838b98fd85e9c6.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" img src="https://cdn.discordapp.com/attachments/845722466188787778/851261611243077712/fis.png">  
 
-# Ofira Beta
+# Disney
 
-[![Run on Repl.it](https://repl.it/badge/github/SAURABH-777/ofira-beta)](https://repl.it/github/SAURABH-777/ofira-beta)
-[![](https://top.gg/api/widget/status/818570692847992902.svg)](https://top.gg/bot/818570692847992902/vote)
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=green&label=Discord&logo=Discord&style=plastic&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"></a>
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
-> This bot is used by more than 1.6M+ Discord users and more than 330+ servers.
+>  DISNEY  is a  high quality music bot, made by Team Disney DISNEY this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
-Ofira Beta Is A Open Sourced Discord Bot Can Use In Many Was Like To Make Server Full Moderation Filled, And Fun. Coded With JavaScript [Discord.js](https://discord.js.org) And [Quick.db](https://quickdb.js.org/) Made By [SAURABH-777](https://github.com/SAURABH-777/)
-<br> Feel free to add a star ⭐ to the repository to promote the project!
+## FEATURES
+Disney gets ready with zero configuration just give read access where you are going to use it and you are ready to 24/7 music.
 
-## Bot Setup
+## YouTube Search
+User can play songs by passing a youtube url or just passing query.
 
-Check Bot Config File [Here](https://github.com/SAURABH-777/ofira-beta/blob/main/config.json)
+## Smooth Playback.
+Quality audio and clear sound ensures premium music experience.
+## Zero Lag
+Runs 24/7 online. Hosted on Google cloud platform, enjoy song with Disney Music Bot..
 
-Example config File - 
-```
-{
-  "TOKEN": "YOUR_BOT_TOKEN",
-  "PREFIX": "YOUR_DEFAULT_BOT_PREFIX",
-  "SOUNDCLOUD_CLIENT_ID": "",
-  "approveemoji": "✅",
-  "denyemoji": "🚫",
-  "erroremoji": "️❗"
-}
+## Playlist Support
+You can enjoy your favourite playlist form YouTube, Spotify, SoundCloud supported.
 
 
-```
+## vote Disney 
 
-## Upcoming Updates
-
-### BUGS FIX
-### MORE COMMAND ADD
-### DASHBOARD
-
-
-
-## License
-
-Alix Beta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
-
-
-## Top.GG 
-
-Vote Ofira And Have 24h Free Credit Of Premium Usage `SOON!`<br><br>
-<a href="https://top.gg/bot/818570692847992902" >
-  <img src="https://top.gg/api/widget/818570692847992902.svg" alt="Ofira" />
+Free 24/7 on Disney Bot high quality music more `Coming Soon`<br><br>
+<a href="https://listcord.gg/bot/826795830111109153" >
+  <img src="https://cdn.discordapp.com/attachments/845722466188787778/851280040327249961/Screenshot_2021-06-07-07-32-29.png" alt="Disney" />
 </a>
