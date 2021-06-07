@@ -3,8 +3,8 @@
 # Disney
 
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=green&label=Discord&logo=Discord&style=plastic&url=https%3A%2F%2Fdiscord.gg%2FJZ3UbCXPMg"></a>
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![](https://img.shields.io/badge/Status-Online-green)
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=yellow&label=JavaScript&logo=javascript&logoColor=yellow&style=plastic&url=https%3A%2F%2Fjavascript.com">
 
 >  DISNEY  is a  high quality music bot, made by Team Disney DISNEY this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
